@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+access_key = "AKIA6NOC7XU5EP7DKDN7"
+secret_key = "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"
+vpc_cidr = "10.0.0.0/16"
+ec2_type = "test"
+key = "jai"
