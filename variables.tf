@@ -33,4 +33,5 @@ variable "instance_type" {
     }
 
 }
+variable "environment" {}
 variable "key" {}
