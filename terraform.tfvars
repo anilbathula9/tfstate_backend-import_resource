@@ -1,6 +1,6 @@
 aws_region = "us-east-1"
-access_key = "xxxxxxx"
-secret_key = "yyyyyyyy"
+access_key = "xxxxxxxxxxxxxxx"
+secret_key = "xxxxxxxxxxxxxx"
 vpc_cidr = "10.0.0.0/16"
 ec2_type = "test"
 environment = "DEV"
